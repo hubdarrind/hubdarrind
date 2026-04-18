@@ -27,7 +27,7 @@ I enjoy building practical software and learning how real systems work behind th
 - Work at top tech companies In Sha Allah
 
 📫 Contact:
-- (Add your email here)
+- hubdar.rind.workk@gmail.com
 <!--
 **hubdarrind/hubdarrind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
