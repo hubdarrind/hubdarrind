@@ -1,44 +1,44 @@
-## Hi there 👋
-Hi, I'm Hubdar Ali 👋
+<h1 align="center">Hi 👋, I'm Hubdar Ali</h1>
+<h3 align="center">Computer Science Student | Aspiring Software Engineer</h3>
 
-I’m a Computer Science student at Salim Habib University, currently in my first year.
+---
 
-I enjoy building practical software and learning how real systems work behind the scenes.
+## 🚀 About Me
+- 🎓 Computer Science Student
+- 💻 Passionate about **Software Development & Problem Solving**
+- 📚 Currently learning: **C++, OOP, Data Structures**
+- ⚡ Focus: Building real-world projects & improving coding skills
+- 🎯 Goal: Become a professional Software Engineer
 
-💻 What I Know:
-- C++ (OOP, file handling, console applications)
-- HTML, CSS, JavaScript, Bootstrap
-- Basics of Python
+---
 
-🚀 Projects:
-- 🛒 Console-Based eCommerce System (C++)
-  → Features: Login/Register, Product Management, Purchase System, Receipt Generation
+## 🛠️ Tech Stack
+- Languages: `C++` `JavaScript` `Python`
+- Concepts: `OOP` `Data Structures` `Algorithms`
+- Tools: `Git` `GitHub` `VS Code`
 
-- 🌐 Fashora (Frontend eCommerce Website)
-  → Built using HTML, CSS, JavaScript, Bootstrap
+---
 
-🎯 Currently Learning:
-- Python (Core + OOP)
-- Backend Development (Flask coming next)
+## 📌 Featured Projects
+- 🔹 File Organizer (C++ OOP)
+- 🔹 Student/Task Management Systems
+- 🔹 Practice DSA Problems
 
-📈 Goals:
-- Build real-world backend systems
-- Move into AI-based applications
-- Work at top tech companies In Sha Allah
+---
 
-📫 Contact:
-- hubdar.rind.workk@gmail.com
-<!--
-**hubdarrind/hubdarrind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect With Me
+- 📧 Email: your@email.com
+- 💼 LinkedIn: (add later)
+- 🌍 Portfolio: (optional future)
+
+---
+
+⭐ *“Consistency beats talent when talent doesn’t work hard.”*
