@@ -21,8 +21,8 @@
 
 ## 📌 Featured Projects
 - 🔹 File Organizer (C++ OOP)
-- 🔹 Student/Task Management Systems
-- 🔹 Practice DSA Problems
+- 🔹 Console Based Ecommerce Store (C++)
+- 🔹 Fashora (HTML, CSS, BOOTSTRAP, JS)
 
 ---
 
