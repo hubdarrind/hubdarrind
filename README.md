@@ -6,15 +6,15 @@
 ## 🚀 About Me
 - 🎓 Computer Science Student
 - 💻 Passionate about **Software Development & Problem Solving**
-- 📚 Currently learning: **C++, OOP, Data Structures**
+- 📚 Currently learning: **C++, JAVA, Data Structures**
 - ⚡ Focus: Building real-world projects & improving coding skills
 - 🎯 Goal: Become a professional Software Engineer
 
 ---
 
 ## 🛠️ Tech Stack
-- Languages: `C++` `JavaScript` `Python`
-- Concepts: `OOP` `Data Structures` `Algorithms`
+- Languages: `C++` `Java`
+- Concepts:  `Data Structures` `Algorithms`
 - Tools: `Git` `GitHub` `VS Code`
 
 ---
@@ -27,7 +27,7 @@
 ---
 
 ## 🌐 Connect With Me
-- 📧 Email: hubdar.rind.workk@gmail.com
+- 📧 Email: hubdar.rind.unoffoical@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/hubdar-ali-rind-876568363/
 
 ---
