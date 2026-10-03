@@ -27,7 +27,7 @@
 ---
 
 ## 🌐 Connect With Me
-- 📧 Email: hubdar.rind.unoffoical@gmail.com
+- 📧 Email: hubdar.rind.unoffical@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/hubdar-ali-rind-876568363/
 
 ---
